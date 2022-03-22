@@ -1,0 +1,26 @@
+{
+  "name": "techpay-tusd",
+  "version": "1.0.0",
+  "description": "TechPay tUSD stable coin smart contract based on OpenZeppelin implementation of ERC20 EIP standard",
+  "main": "truffle-config.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechPay-io/TechPay-Tusd.git"
+  },
+  "keywords": [
+    "TechPay",
+    "tUSD",
+    "Mint",
+    "Solidity"
+  ],
+  "author": "TechPay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TechPay-io/TechPay-Tusd/issues"
+  },
+  "homepage": "https://github.com/TechPay-io/TechPay-Tusd#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1"
+  }
+}
